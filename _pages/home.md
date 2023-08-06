@@ -15,5 +15,3 @@ I have experience working on various web technologies to build scalable web apps
 - Software Engineering
 - Human Computer Interaction
 
-## Background
-> [> CV](/assets/docs/CV.pdf)
